@@ -9,5 +9,3 @@ Brief description about the website :-
 	The web page is created in both Sinhala and English.
 	Also, the web page has been uploaded to GitHub.
 	https://stedirisuriya.github.io/Future-Robotics/index.html
-
-Please provide the Internet for viewing webpage. If not fonts will not available. 
